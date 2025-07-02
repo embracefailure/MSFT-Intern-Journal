@@ -1,6 +1,6 @@
 title: "微软实习记录"
 description: "记录我在微软实习期间的技术成长与行业认知"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 markdown: kramdown
 navigation:
   - title: "首页"
