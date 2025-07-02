@@ -18,14 +18,14 @@ permalink: /projects/
 
 <div style="text-align: center; margin: 20px 0;">
   <video width="100%" max-width="800px" controls>
-    <source src="assets/videos/Blender_demo.mp4" type="video/mp4">
+    <source src="/assets/videos/Blender_demo.mp4" type="video/mp4">
     您的浏览器不支持视频播放。
   </video>
   <p><em>Blender MCP + Claude Desktop</em></p>
 </div>
 <div style="text-align: center; margin: 20px 0;">
   <video width="100%" max-width="800px" controls>
-    <source src="assets/videos/Playwright_demo.mp4" type="video/mp4">
+    <source src="/assets/videos/Playwright_demo.mp4" type="video/mp4">
     您的浏览器不支持视频播放。
   </video>
   <p><em>Playwright MCP + GitHub Copilot</em></p>
