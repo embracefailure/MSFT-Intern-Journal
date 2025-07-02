@@ -3,7 +3,8 @@ description: "记录我在微软实习期间的技术成长与行业认知"
 theme: minimal-mistakes-jekyll
 
 
-plugins: - jekyll-include-cache
+plugins: 
+  - jekyll-include-cache
 
 
 markdown: kramdown
