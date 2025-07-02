@@ -4,6 +4,8 @@ theme: minima
 
 markdown: kramdown
 
+plugins:
+  - jekyll-feed
 
 header_pages:
   - index.md
@@ -11,3 +13,6 @@ header_pages:
   - projects.md
   - industry.md
   - qa.md
+
+minima:
+  skin: dark  
