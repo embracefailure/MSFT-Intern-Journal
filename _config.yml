@@ -6,10 +6,15 @@ markdown: kramdown
 
 
 
-header_pages:
-  - index.md
-  - tech.md
-  - projects.md
-  - industry.md
-  - qa.md
-
+# 导航栏配置
+navigation:
+  - name: 首页
+    link: /
+  - name: 技术学习
+    link: /tech/
+  - name: 项目展示
+    link: /projects/
+  - name: 行业认知
+    link: /industry/
+  - name: Q&A记录
+    link: /qa/
