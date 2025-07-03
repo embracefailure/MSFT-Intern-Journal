@@ -16,3 +16,13 @@ permalink: /tech/
 
 ## Azure 解决方案 Map
 ![Azure 解决方案 Map](/assets/images/solutionmap.png)
+
+## Azure 认证
+- **基础级**
+    - AZ-900（Azure基础）
+- **助理级**
+    - AZ-104（管理员） → AZ-305（架构师）
+    - AZ-204（开发者） → AZ-400（DevOps专家）
+    - AZ-500（安全工程师） → SC-100（安全架构师）
+    - AZ-700（网络工程师）
+    - AZ-800 + AZ-801（Windows Server混合管理员）
