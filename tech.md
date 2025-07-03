@@ -4,6 +4,9 @@ title: 技术学习
 permalink: /tech/
 ---
 
+## Agent 越辩越明
+能够自主执行任务，而不是被动响应的多轮对话bot
+
 
 ## Azure 工作负载分类 
 
@@ -26,3 +29,5 @@ permalink: /tech/
     - AZ-500（安全工程师） → SC-100（安全架构师）
     - AZ-700（网络工程师）
     - AZ-800 + AZ-801（Windows Server混合管理员）
+
+
