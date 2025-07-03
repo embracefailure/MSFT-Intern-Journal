@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Q&A记录
+title: 杂碎记录
 permalink: /qa/
 ---
 
