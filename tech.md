@@ -4,7 +4,6 @@ title: 技术学习
 permalink: /tech/
 ---
 
-# Azure 解决方案架构
 
 ## Azure 工作负载分类 
 
