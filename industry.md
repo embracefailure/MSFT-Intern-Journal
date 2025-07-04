@@ -11,5 +11,4 @@ permalink: /industry/
 3. **提升效率**：提升各业务线工作效率
 4. **创新体验**：开创客户与员工活跃互动的创新方式
 
-![亚马逊云科技中国峰会](\assets\images\awsgenai.png)
-*生成式AI重塑制造业价值链*
+![亚马逊云科技中国峰会](/assets/images/awsgenai.png)
