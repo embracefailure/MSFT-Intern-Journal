@@ -9,6 +9,20 @@ permalink: /projects/
 这里记录我在微软实习期间参与的项目、使用的技术和实现的成果。
 
 ---
+## 带有RAG的Agent能力复现项目
+利用微软GitHub仓库 [get-started-with-ai-agents](https://github.com/embracefailure/get-started-with-ai-agents)，创建了docker容器，测试了订阅的quota，跑通了基于RAG的Agent项目。
+
+解决方案架构图：
+![RAG Agent 解决方案架构图](/assets/images/rag_agent_arch.png)
+
+做了改进：
+1. 给Agent增加了新的文件，测试效果通过。
+
+
+
+
+
+
 
 ## MCP 协议 Agent 能力复现项目
 
