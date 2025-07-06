@@ -18,3 +18,6 @@ permalink: /qa/
 
 - 现在有哪些产品，我的产品能够满足哪些需求？
 
+## 3. 好用的工具
+
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
