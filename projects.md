@@ -18,7 +18,7 @@ permalink: /projects/
 做了改进：
 1. 给Agent增加了新的文件，测试效果通过。
 
-
+![Agent增加新文件，测试信息准确](/assets/images/agent_add_file.png)
 
 
 
