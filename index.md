@@ -42,4 +42,4 @@ HCS_E_SERVICE_NOT_AVAILABLE
 - 使用check quota.sh文件查看配额，发现我的60开头的订阅没有Azure openai配额。另一个有。另一个TPM的限制是50K，符合文档里面MSDN型订阅的限制。于是用：https://aka.ms/oai/stuquotarequest 提升配额到140K。同时，我发现有人遇到过这个问题： https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator/issues/257
 
 - 使用微软另一个仓库就可以满足限额要求：https://github.com/Azure-Samples/get-started-with-ai-agents/tree/main?tab=readme-ov-file#deploying-steps 
-但是架构不同，这个是单一agent，能基于上传文件检索。但是不能联网搜索。UI找不到上传文件的位置，不知道为什么。
+但是架构不同，这个是单一agent，能基于上传文件检索。但是不能联网搜索。UI找不到上传文件的位置，应该是前端没有写上传文件的按钮。
