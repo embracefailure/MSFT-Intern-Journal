@@ -38,3 +38,5 @@ HCS_E_SERVICE_NOT_AVAILABLE
 然后重启电脑。
 
 - 按照我使用azd up命令后，报错配额不够。设置location为eastus后仍然不行。
+
+- 使用check quota.sh文件查看配额，发现我的60开头的订阅没有Azure openai配额。另一个有。另一个TPM的限制是50K，符合文档里面MSDN型订阅的限制。于是用：https://aka.ms/oai/stuquotarequest 提升配额到140K。同时，我发现有人遇到过这个问题： https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator/issues/257
