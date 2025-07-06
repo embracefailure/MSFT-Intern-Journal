@@ -4,6 +4,11 @@ title: 技术学习
 permalink: /tech/
 ---
 
+## Multi Agent 框架
+
+### Bicep
+Bicep 是 Azure 的基础设施即代码（Infrastructure as Code, IaC）语言，用于以声明式方式定义和部署 Azure 资源。
+
 ## Agent 越辩越明
 能够自主执行任务，而不是被动响应的多轮对话bot
 

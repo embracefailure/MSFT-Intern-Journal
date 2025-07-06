@@ -36,3 +36,5 @@ HCS_E_SERVICE_NOT_AVAILABLE
 ```
 
 然后重启电脑。
+
+- 按照我使用azd up命令后，报错配额不够。设置location为eastus后仍然不行。
