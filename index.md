@@ -43,3 +43,5 @@ permalink: /
 
 - 使用微软另一个仓库就可以满足限额要求：https://github.com/Azure-Samples/get-started-with-ai-agents/tree/main?tab=readme-ov-file#deploying-steps 
 但是架构不同，这个是单一agent，能基于上传文件检索。但是不能联网搜索。UI找不到上传文件的位置，应该是前端没有写上传文件的按钮。
+
+- 我最近喜欢上了一个打篮球的女孩儿。我想去香港找她。
