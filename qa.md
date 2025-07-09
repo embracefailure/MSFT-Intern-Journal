@@ -21,3 +21,8 @@ permalink: /qa/
 ## 3. 好用的工具
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+
+## 4. 如何做好ATS
+
+- 跟客户present的时候，总-分-总结构。
+- 先拿出一个技术架构图，再举例子说细节，不然会散焦。
