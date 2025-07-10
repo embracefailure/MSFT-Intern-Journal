@@ -4,6 +4,19 @@ title: 技术学习
 permalink: /tech/
 ---
 
+## Azure OpenAI
+模型请求吞吐量是什么？
+TTPS和RPS的区别是什么？
+我创建代理的时候无法推理模型。
+
+## Kubernetes
+kubernetes有哪些应用场景？
+kubernetes给云厂商带来了什么好处？
+kubernetes给用户带来了什么好处？
+kubernetes的核心组件有哪些？
+Azure kubernetes服务是如何工作的？
+Azure kubernetes服务与其他云厂商的kubernetes服务相比，有哪些优势？
+
 ## Security
 
 ### Azure 安全服务架构
