@@ -45,3 +45,5 @@ permalink: /
 但是架构不同，这个是单一agent，能基于上传文件检索。但是不能联网搜索。UI找不到上传文件的位置，应该是前端没有写上传文件的按钮。
 
 - 可以确定截止2025年7月10日，m365 copilot和copilot studio并不支持连接researcher agent到别的agent上。Azure AI Foundry不支持创建基于reasoning模型的agent。但是copilot studio可以通过打开设置里面的reasoning，并在agent的instructions里面对需要reasoning的地方进行reasoning，来实现reasoning的功能。
+
+- copilot studio的 topics主要用来引导对话进入不同的处理分支，与我的需求不符合。
