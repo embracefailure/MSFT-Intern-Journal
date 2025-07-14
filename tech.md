@@ -7,7 +7,8 @@ permalink: /tech/
 ## Azure OpenAI
 模型请求吞吐量是什么？
 TTPS和RPS的区别是什么？
-我创建代理的时候无法推理模型。
+AI Foundry Agent服务暂不支持O系列模型。
+加上bing search的AI，input token包含了联网搜索的结果。不只是instructions和用户提问。
 
 ## Kubernetes
 Kubernetes是一个开源的容器编排平台，用于自动化部署，扩展，管理容器化应用程序。 
