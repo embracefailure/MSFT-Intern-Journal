@@ -64,6 +64,9 @@ permalink: /projects/
 
 
 **技术路线和架构图：**
+
+![ATU Agent 解决方案架构图](/assets/images/atu_agent_arch.png)
+
 1. **技术路线1：Azure AI Foundry 多agent联合**
 
     阶段成果：
