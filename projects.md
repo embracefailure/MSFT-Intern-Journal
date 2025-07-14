@@ -70,6 +70,13 @@ permalink: /projects/
 1. **技术路线1：Azure AI Foundry 多agent联合**
 
     阶段成果：
+    <div style="text-align: center; margin: 20px 0;">
+      <video width="100%" max-width="800px" controls>
+        <source src="/MSFT-Intern-Journal/assets/videos/AI_Foundry_ATU_Agent.mp4" type="video/mp4">
+        您的浏览器不支持视频播放。
+      </video>
+      <p><em>AI Foundry 多agent联合演示视频</em></p>
+    </div>
 
     改进方案：试下单agent完成所有任务；试下通过代码deploy O 系列模型
 
