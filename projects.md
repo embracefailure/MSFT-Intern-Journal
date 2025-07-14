@@ -10,6 +10,14 @@ permalink: /projects/
 
 ---
 
+## AI Foundry Agent SDK 项目记录
+
+下载了Azure cli，使用sdk创建并测试了agent，接下来尝试增加bing search能力并测试。
+### Milestone
+1. 增加code interpreter工具，测试
+2. 增加bing search能力，测试
+3. 学习如何将两个agent联合起来，research agent搜集互联网信息，另一个agent判断research agent搜集的信息是否足够，不够的话，继续搜集，知道满足要求。
+
 ## ATU Agent项目记录
 **业务目标：** 
 构建一个帮助ATU团队自动化搜集客户情报的agent
