@@ -71,7 +71,7 @@ permalink: /projects/
 
     阶段成果：
 
-    改进方案：
+    改进方案：试下单agent完成所有任务；试下通过代码deploy O 系列模型
 
     优点：属于Azure产品，可以drive ACR
 
@@ -92,7 +92,7 @@ permalink: /projects/
       <p><em>Copilot Studio 多agent联合演示视频</em></p>
     </div>
     
-    改进方案：
+    改进方案：用一个agent完成所有任务，比较一下结果。
 
     优点：相比Azure AI Foundry，可以开启deep reasoning能力，支持深度思考，优化搜索能力。
 
@@ -104,7 +104,7 @@ permalink: /projects/
 
     阶段成果：
 
-    改进方案：
+    改进方案：暂无。
 
     优点：单agent长上下文，减少多agent之间信息传递导致的信息损失，支持深度思考。
 
