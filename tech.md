@@ -6,7 +6,19 @@ permalink: /tech/
 
 ## Azure OpenAI
 模型请求吞吐量是什么？
+吞吐量：throughput, 一段时间内系统能够处理的数据量或者请求量。
+
 TTPS和RPS的区别是什么？
+RPS：requests per second，每秒可以接收的请求数。
+TTPS：tokens per second，每秒可以处理的token数量。
+TTPS与哪些因素有关：
+1. 模型的大小：更大的模型通常需要更多的计算资源，因此TTPS会较低。
+2. 编码器优化：使用搞笑的tokenizer，KV-Cache可以提升TTPS。
+3.streaming模式：如果使用流式输出，TTPS会更高，因为可以在生成过程中逐步返回结果，而不是等待整个响应完成。
+4. batch size：批量处理多个请求可以提高TTPS，因为可以更高效地利用计算资源。
+5. 硬件：A100< H100 < TPUv5
+
+
 AI Foundry Agent服务暂不支持O系列模型。
 加上bing search的AI，input token包含了联网搜索的结果。不只是instructions和用户提问。
 
