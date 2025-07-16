@@ -16,6 +16,10 @@ permalink: /
 
 ## 踩坑记录
 
+- Azure AI Foundry Agent SDK的O3模型不支持连接bing search作为tools，一调用就说server error。O3模型只能用code interpreter作为tools，很奇怪。
+
+- Azure AI Foundry 代理服务不支持o4-mini模型，最多用代码方式对o3-mini模型做调用。（2025.7.16）
+
 - 发现我的Azure订阅不能开域名，卡在验证那一步，说没有配额可以开，可能的原因是账户类型是MSDN,不支持我开域名服务，Azure学生账户也不行。
 - 上传GitHub的视频尽量压缩到100Mb以下，否则会需要lfs处理。
 - 视频路径最好写绝对路径，不然就用开发者工具检查下路径为什么不对。
