@@ -127,7 +127,7 @@ permalink: /projects/
       <p><em>Researcher+精调prompt演示视频</em></p>
     </div>
 
-    改进方案：暂无。
+    改进方案：优化prompt
 
     优点：单agent长上下文，减少多agent之间信息传递导致的信息损失，支持深度思考。
 

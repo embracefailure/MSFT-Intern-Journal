@@ -11,7 +11,6 @@ permalink: /
 ## 实习概览
 
 - Role：Account Tech Strategist
-- Mentor：Mingqi Shan
 - Location：深圳
 - Time：2025年6月起
 
