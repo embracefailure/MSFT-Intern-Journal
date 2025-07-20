@@ -4,6 +4,17 @@ title: 技术学习
 permalink: /tech/
 ---
 
+## Multimodal Models Landscape
+
+[MSRA Article](https://www.microsoft.com/en-us/research/articles/multimodal-large-language-models/) 
+
+现有多模态模型实现方式分类：
+- 多模态接口：根据用户输入的企图，判断要调用什么API
+
+- 多模态对齐与融合：在技术框架层将语言模型、视觉模型、声音模型等进行连接，这些模型相互独立学习，使用不同模态的数据进行训练，然后将拼接好的模型在跨模态数据上继续预训练以及在不同任务数据上进行微调；类似于MoE
+
+- 原生多模态大语言模型：从训练阶段开始，模型就利用大量不同模态的数据进行预训练，技术上实现紧密的耦合，不仅可以在输入和输出端实现多模态，而且还具备强大的多模态推理能力以及跨模态迁移能力。微软KOSMOS系列就是以语言为基础的原生多模态大模型。目前没有被用到Azure上。
+
 ## Apache Spark
 Apache Spark 是一个开源的分布式计算框架，主要用于大数据处理和分析。它提供了快速、通用的集群计算能力，支持批处理、流处理、机器学习和图形处理等多种数据处理模式。
 Apache Spark内存计算的优势：
