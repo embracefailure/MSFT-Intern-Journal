@@ -15,6 +15,9 @@ permalink: /tech/
 
 - 原生多模态大语言模型：从训练阶段开始，模型就利用大量不同模态的数据进行预训练，技术上实现紧密的耦合，不仅可以在输入和输出端实现多模态，而且还具备强大的多模态推理能力以及跨模态迁移能力。微软KOSMOS系列就是以语言为基础的原生多模态大模型。目前没有被用到Azure上。
 
+### Video Understanding
+[Azure AI Content Understanding](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/transforming-video-into-value-with-azure-ai-content-understanding/4297114)
+
 ## Apache Spark
 Apache Spark 是一个开源的分布式计算框架，主要用于大数据处理和分析。它提供了快速、通用的集群计算能力，支持批处理、流处理、机器学习和图形处理等多种数据处理模式。
 Apache Spark内存计算的优势：
